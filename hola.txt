@@ -1,0 +1,10 @@
+Primera entrada de text
+Segona entrada de text
+Tercera linia
+<<<<<<< HEAD
+Cuarta linia  
+=======
+Cuarta linia
+Quinta linia
+Sexta linia 
+>>>>>>> dev
